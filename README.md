@@ -23,3 +23,5 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
+
+<img src="https://coltenzimm.github.io/challenge-1/">
